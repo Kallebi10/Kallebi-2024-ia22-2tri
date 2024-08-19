@@ -538,3 +538,10 @@ database.sqlite/
 ## veja como ficou por fim nosso tutorial abrindo no navegador e é noiss
 
 <img src="imagens/tela.jpg">
+
+e por ultimo...
+
+só precisamos adicionar, comitar e subir as mudanças feitas para o GitHub. primeiro de tudo, abra o terminal e use `Ctrl + c` para fechar o servidor web e copie o script abaixo no terminal.
+```
+git add . ; git commit -m ... ; git push origin main
+```
